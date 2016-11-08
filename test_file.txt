@@ -1,1 +1,17 @@
-this is a test branch.
+user.name=Emruz
+user.email=hossainemruz.gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:Emruz-Hossain/First-Git.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+branch.Branch_Emruz.remote=origin
+branch.Branch_Emruz.merge=refs/heads/Branch_Emruz
+branch.b_nahid.remote=origin
+branch.b_nahid.merge=refs/heads/b_nahid
+branch._Shudipta.remote=origin
+branch._Shudipta.merge=refs/heads/_Shudipta
+
