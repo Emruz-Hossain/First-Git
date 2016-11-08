@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Once upon a time a boy wast trying to learn git. He search in web and then start to learn.
-=======
 hello everyone
-
->>>>>>> 9dc2c80f691653e4f2f3a36d12c324abc94e5b6e
